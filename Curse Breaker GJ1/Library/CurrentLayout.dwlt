@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 917
-  m_MinSize: {x: 681, y: 498}
+  m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 3410
+  controlID: 4292
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1309
     height: 917
-  m_MinSize: {x: 404, y: 498}
+  m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 3411
+  controlID: 4293
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,11 +161,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1309
-    height: 479
-  m_MinSize: {x: 404, y: 224}
-  m_MaxSize: {x: 8004, y: 4024}
+    height: 556
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 3412
+  controlID: 4294
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -184,7 +184,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 324
-    height: 479
+    height: 556
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 13}
@@ -210,7 +210,7 @@ MonoBehaviour:
     x: 324
     y: 0
     width: 985
-    height: 479
+    height: 556
   m_MinSize: {x: 204, y: 224}
   m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 14}
@@ -235,9 +235,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 479
+    y: 556
     width: 1309
-    height: 438
+    height: 361
   m_MinSize: {x: 232, y: 274}
   m_MaxSize: {x: 10002, y: 10024}
   m_ActualView: {fileID: 16}
@@ -295,9 +295,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 501
+    y: 578
     width: 1307
-    height: 414
+    height: 337
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
@@ -377,14 +377,14 @@ MonoBehaviour:
     x: 0
     y: 73
     width: 322
-    height: 459
+    height: 536
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 10e3ffff
-      m_LastClickedID: -7408
-      m_ExpandedIDs: fcf4ffff76f9ffff
+      scrollPos: {x: 0, y: 9}
+      m_SelectedIDs: c6fbffff
+      m_LastClickedID: -1082
+      m_ExpandedIDs: defbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -432,7 +432,7 @@ MonoBehaviour:
     x: 324
     y: 73
     width: 981
-    height: 459
+    height: 536
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 460461a749da3ce4a9f3a7f97858f625
   m_SceneLighting: 1
@@ -440,9 +440,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.6483126, y: 12.008484, z: 4.997778}
+    m_Target: {x: 3.8025188, y: 7.1806793, z: 8.124832}
     speed: 2
-    m_Value: {x: 5.6483126, y: 12.008484, z: 4.997778}
+    m_Value: {x: 3.8025188, y: 7.1806793, z: 8.124832}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -470,13 +470,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.42083925, y: 0.01006165, z: -0.0046684765, w: -0.9070675}
+    m_Target: {x: 0.075268865, y: 0.6699734, z: 0.06857527, w: -0.7353691}
     speed: 2
-    m_Value: {x: -0.42083925, y: 0.01006165, z: -0.0046684765, w: -0.9070675}
+    m_Value: {x: 0.07526887, y: 0.66997343, z: 0.06857528, w: -0.73536915}
   m_Size:
-    m_Target: 27.371103
+    m_Target: 18.714893
     speed: 2
-    m_Value: 27.371103
+    m_Value: 18.714893
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -536,9 +536,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 552
+    y: 629
     width: 1307
-    height: 418
+    height: 341
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -552,11 +552,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Lava_Flowing_Shader/Prefabs
+    - Assets/Historic environment/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Lava_Flowing_Shader/Prefabs
+  - Assets/Historic environment/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\KIDZ PC\Documents\GitHub\Curse-Breaker\Curse Breaker
     GJ1
@@ -564,9 +564,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 94370000
-    m_LastClickedID: 14228
-    m_ExpandedIDs: 000000002828000050290000ba2a0000fe2b00002c2c00002a2f0000fa300000963100000c320000ea3200009e37000000ca9a3b
+    m_SelectedIDs: 14370000
+    m_LastClickedID: 14100
+    m_ExpandedIDs: 00000000600b0000820c0000f40d00003e0f00006e0f00006a1200003a140000da140000ee1400005215000034160000f83600005437000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -594,7 +594,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002828000050290000ba2a0000fe2b00002c2c00002a2f0000fa300000963100000c320000ea3200009e37000000ca9a3b
+    m_ExpandedIDs: 00000000600b0000820c0000f40d00003e0f00006e0f00006a1200003a140000da140000ee1400005215000034160000f83600005437000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
